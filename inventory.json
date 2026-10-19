@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Chevrolet",
-  "generated_at": "2026-10-17T14:43:45",
+  "generated_at": "2026-10-18T18:31:45",
   "vehicle_count": 562,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -25,15 +25,15 @@
       "province": "BC"
     },
     {
-      "name": "2009 BMW 3 Series Convertible 2dr Cabriolet 335i RWD",
+      "name": "2009 BMW 3 Series Convertible 335i",
       "vin": "WBAWL73549P182322",
       "stock": "6K15849",
       "color": "Gold",
-      "trim": "Convertible Cabriolet 335i",
+      "trim": "Convertible 335i",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/7382e7828526.html",
       "source_url": "https://www.kelownachev.com/vehicles/2009/bmw/3-series-convertible/kelowna/bc/71517137/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2009/bmw/3-series-convertible/kelowna/bc/71517137/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:28:21",
+      "last_verified": "2026-10-18T18:29:41",
       "price": 17980.0,
       "price_currency": "CAD",
       "odometer_km": 110131,
@@ -65,7 +65,7 @@
       "province": "BC"
     },
     {
-      "name": "2011 RAM 2500 Laramie Long Box 6.7L | Sunroof | Htd Str Wheel &",
+      "name": "2011 RAM 2500 Laramie Long Box 6.7L | Sunroof | Htd Str Wheel & Seats | Memory Seat",
       "vin": "3D7UT2CL1BG511957",
       "stock": "6K16146",
       "color": "Black",
@@ -73,7 +73,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/1c1958cd298e.html",
       "source_url": "https://www.kelownachev.com/vehicles/2011/ram/2500/kelowna/bc/71517135/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2011/ram/2500/kelowna/bc/71517135/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:28:41",
+      "last_verified": "2026-10-18T18:29:49",
       "price": 23980.0,
       "price_currency": "CAD",
       "odometer_km": 306562,
@@ -123,7 +123,7 @@
       "province": "BC"
     },
     {
-      "name": "2015 Toyota RAV4 LE | Keyless Entry | Cruise Control | Power Window",
+      "name": "2015 Toyota RAV4 LE | Keyless Entry | Cruise Control | Power Windows | Power Lock Doors",
       "vin": "2T3BFREV5FW276808",
       "stock": "6K15849",
       "color": "Red",
@@ -131,7 +131,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/b31fdcf407b0.html",
       "source_url": "https://www.kelownachev.com/vehicles/2015/toyota/rav4/kelowna/bc/71470537/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2015/toyota/rav4/kelowna/bc/71470537/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:29:00",
+      "last_verified": "2026-10-18T18:29:57",
       "price": 19980.0,
       "price_currency": "CAD",
       "odometer_km": 164506,
@@ -163,7 +163,7 @@
       "province": "BC"
     },
     {
-      "name": "2016 Honda Fit LX | Back-up Cam | Bluetooth | Keyless Entry | Htd",
+      "name": "2016 Honda Fit LX | Back-up Cam | Bluetooth | Keyless Entry | Htd Side Mirrors | Hill Start Assist",
       "vin": "3HGGK5H56GM105687",
       "stock": "6TV5336",
       "color": "White",
@@ -171,7 +171,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/07423250989c.html",
       "source_url": "https://www.kelownachev.com/vehicles/2016/honda/fit/kelowna/bc/71517134/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2016/honda/fit/kelowna/bc/71517134/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:29:18",
+      "last_verified": "2026-10-18T18:30:07",
       "price": 16980.0,
       "price_currency": "CAD",
       "odometer_km": 61863,
@@ -183,7 +183,7 @@
       "province": "BC"
     },
     {
-      "name": "2016 Jeep Wrangler 4WD 4dr Sahara",
+      "name": "2016 Jeep Wrangler Sahara | Keyless Entry | Power Lock Doors | Remote Engine Start | Cruise Control | Power Windows",
       "vin": "1C4BJWEGXGL177176",
       "stock": "6EQ6775",
       "color": "Silver",
@@ -191,7 +191,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/1b0542216fa4.html",
       "source_url": "https://www.kelownachev.com/vehicles/2016/jeep/wrangler/kelowna/bc/71457998/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2016/jeep/wrangler/kelowna/bc/71457998/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:29:25",
+      "last_verified": "2026-10-18T18:30:15",
       "price": 25900.0,
       "price_currency": "CAD",
       "odometer_km": 100413,
@@ -263,7 +263,7 @@
       "province": "BC"
     },
     {
-      "name": "2017 Chevrolet Silverado 1500 LTZ | Z71 Off-Road | Canopy | Sunroof | Htd Seats",
+      "name": "2017 Chevrolet Silverado 1500 LTZ | Z71 Off-Road | Canopy | Sunroof | Htd Seats | Rmt Start",
       "vin": "3GCUKSEJ5HG211565",
       "stock": "6K13664",
       "color": "Black",
@@ -271,7 +271,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/8ac9658416a0.html",
       "source_url": "https://www.kelownachev.com/vehicles/2017/chevrolet/silverado-1500/kelowna/bc/71391436/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2017/chevrolet/silverado-1500/kelowna/bc/71391436/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:29:33",
+      "last_verified": "2026-10-18T18:30:23",
       "price": 23680.0,
       "price_currency": "CAD",
       "odometer_km": 259059,
@@ -283,7 +283,7 @@
       "province": "BC"
     },
     {
-      "name": "2017 Chevrolet Silverado 1500 LT Max Tow 5.3L | Htd Front Seats | Keyless Entry",
+      "name": "2017 Chevrolet Silverado 1500 LT Max Tow 5.3L | Htd Front Seats | Keyless Entry | Bluetooth",
       "vin": "3GCUKREC4HG330976",
       "stock": "6K15243",
       "color": "Black",
@@ -291,7 +291,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/7b9714ae70d8.html",
       "source_url": "https://www.kelownachev.com/vehicles/2017/chevrolet/silverado-1500/kelowna/bc/71494518/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2017/chevrolet/silverado-1500/kelowna/bc/71494518/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:29:42",
+      "last_verified": "2026-10-18T18:30:33",
       "price": 29980.0,
       "price_currency": "CAD",
       "odometer_km": 114545,
@@ -403,7 +403,7 @@
       "province": "BC"
     },
     {
-      "name": "2018 Toyota RAV4 AWD LE",
+      "name": "2018 Toyota RAV4 LE | Keyless Entry | Back-Up Camera | Cruise Control | Power Windows | Lane Departure Alert",
       "vin": "2T3BFREV5JW795480",
       "stock": "BB79548",
       "color": "Red",
@@ -411,7 +411,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/8ffbf01b16dd.html",
       "source_url": "https://www.kelownachev.com/vehicles/2018/toyota/rav4/kelowna/bc/71470535/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2018/toyota/rav4/kelowna/bc/71470535/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:29:59",
+      "last_verified": "2026-10-18T18:30:43",
       "price": 22980.0,
       "price_currency": "CAD",
       "odometer_km": 131000,
@@ -483,15 +483,15 @@
       "province": "BC"
     },
     {
-      "name": "2019 Land Rover Range Rover Sport HSE 4WD | Power Driver Seat | Panoramic Moonroof |",
+      "name": "2019 Land Rover Range Rover Sport HSE 4WD | Power Driver Seat | Panoramic Moonroof | Power Liftgate | Push Button Start",
       "vin": "SALWR2RK2KA854302",
       "stock": "6K35188",
       "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/70d66d13ceca.html",
       "source_url": "https://www.kelownachev.com/vehicles/2019/land-rover/range-rover-sport/kelowna/bc/70408089/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2019/land-rover/range-rover-sport/kelowna/bc/70408089/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T13:33:19",
-      "price": 35980.0,
+      "last_verified": "2026-10-18T18:29:33",
+      "price": 33217.0,
       "price_currency": "CAD",
       "odometer_km": 130805,
       "year": 2019,
@@ -502,7 +502,7 @@
       "province": "BC"
     },
     {
-      "name": "2019 RAM 1500 Express ST 3.6L 4WD | Keyless Entry | Back-Up Came",
+      "name": "2019 RAM 1500 Express ST 3.6L 4WD | Keyless Entry | Back-Up Camera | Front Split Bench Seat | Cruise Control",
       "vin": "1C6RR7FG7KS710750",
       "stock": "6TB0276",
       "color": "White",
@@ -510,7 +510,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/d875f6e00eb7.html",
       "source_url": "https://www.kelownachev.com/vehicles/2019/ram/1500/kelowna/bc/70981858/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2019/ram/1500/kelowna/bc/70981858/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:30:19",
+      "last_verified": "2026-10-18T18:30:52",
       "price": 21980.0,
       "price_currency": "CAD",
       "odometer_km": 169465,
@@ -530,7 +530,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/294c0d28d6be.html",
       "source_url": "https://www.kelownachev.com/vehicles/2019/ram/1500/kelowna/bc/71228149/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2019/ram/1500/kelowna/bc/71228149/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:30:29",
+      "last_verified": "2026-10-18T18:31:02",
       "price": 31980.0,
       "price_currency": "CAD",
       "odometer_km": 111107,
@@ -622,7 +622,7 @@
       "province": "BC"
     },
     {
-      "name": "2020 GMC Sierra 1500 SLT 3.0L 4WD | Power Front Seats | Front Split Ben",
+      "name": "2020 GMC Sierra 1500 SLT 3.0L 4WD | Power Front Seats | Front Split Bench Seat | HD Rear Camera | Hitch Guidance",
       "vin": "1GTU9DET2LZ151214",
       "stock": "6K13214",
       "color": "White",
@@ -630,8 +630,8 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/78495b67c9f9.html",
       "source_url": "https://www.kelownachev.com/vehicles/2020/gmc/sierra-1500/kelowna/bc/71031542/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2020/gmc/sierra-1500/kelowna/bc/71031542/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:30:52",
-      "price": 46494.0,
+      "last_verified": "2026-10-18T18:31:11",
+      "price": 44694.0,
       "price_currency": "CAD",
       "odometer_km": 101798,
       "year": 2020,
@@ -821,7 +821,7 @@
       "province": "BC"
     },
     {
-      "name": "2021 Kia Sorento LX Premium AWD",
+      "name": "2021 Kia Sorento LX Premium 2.5L | Carplay | Htd Seats | 3rd Row Seats | 4.2in Touchscreen",
       "vin": "5XYRGDLC1MG028311",
       "stock": "6K13231",
       "color": "Black",
@@ -829,7 +829,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/e4202353f815.html",
       "source_url": "https://www.kelownachev.com/vehicles/2021/kia/sorento/kelowna/bc/71494512/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2021/kia/sorento/kelowna/bc/71494512/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:31:08",
+      "last_verified": "2026-10-18T18:31:22",
       "price": 25980.0,
       "price_currency": "CAD",
       "odometer_km": 101114,
@@ -901,7 +901,7 @@
       "province": "BC"
     },
     {
-      "name": "2022 Chevrolet Silverado 1500 LTD Custom | Keyless Entry | Remote Engine Start | Bac",
+      "name": "2022 Chevrolet Silverado 1500 LTD Custom | Keyless Entry | Remote Engine Start | Back-Up Camera | Cruise Control",
       "vin": "1GCRYBEK2NZ194944",
       "stock": "6CL5192",
       "color": "White",
@@ -909,7 +909,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/1a9c2ad3807b.html",
       "source_url": "https://www.kelownachev.com/vehicles/2022/chevrolet/silverado-1500-ltd/kelowna/bc/71446414/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2022/chevrolet/silverado-1500-ltd/kelowna/bc/71446414/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:31:26",
+      "last_verified": "2026-10-18T18:31:32",
       "price": 29980.0,
       "price_currency": "CAD",
       "odometer_km": 114059,
@@ -921,7 +921,7 @@
       "province": "BC"
     },
     {
-      "name": "2022 Chevrolet Silverado 1500 Custom Trail Boss | Keyless Start | Cruise Control",
+      "name": "2022 Chevrolet Silverado 1500 Custom Trail Boss | Keyless Start | Cruise Control | Power Driver Seat | Back-Up Camera",
       "vin": "3GCPDCEK6NG647584",
       "stock": "6K12763",
       "color": "White",
@@ -929,7 +929,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/994e26fb2160.html",
       "source_url": "https://www.kelownachev.com/vehicles/2022/chevrolet/silverado-1500/kelowna/bc/71422959/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2022/chevrolet/silverado-1500/kelowna/bc/71422959/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T06:31:33",
+      "last_verified": "2026-10-18T18:31:41",
       "price": 35980.0,
       "price_currency": "CAD",
       "odometer_km": 119154,
