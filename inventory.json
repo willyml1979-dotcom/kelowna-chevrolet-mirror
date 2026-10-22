@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chevrolet",
-  "generated_at": "2026-10-21T17:56:38",
-  "vehicle_count": 583,
+  "generated_at": "2026-10-22T07:08:03",
+  "vehicle_count": 584,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -45,7 +45,7 @@
       "province": "BC"
     },
     {
-      "name": "2009 Chevrolet Silverado 2500 LT 6.6L Duramax | Power Windows | Power Lock Doors",
+      "name": "2009 Chevrolet Silverado 2500 LT 6.6L Duramax | Power Windows | Power Lock Doors | Cruise Control | 40/20/40 Split Bench",
       "vin": "1GCHK43649F171509",
       "stock": "6K15038",
       "color": "Silver",
@@ -53,7 +53,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/4fcb71cb619e.html",
       "source_url": "https://www.kelownachev.com/vehicles/2009/chevrolet/silverado-2500/kelowna/bc/71542652/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2009/chevrolet/silverado-2500/kelowna/bc/71542652/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:01:07",
+      "last_verified": "2026-10-22T07:06:52",
       "price": 22980.0,
       "price_currency": "CAD",
       "odometer_km": 257380,
@@ -283,7 +283,7 @@
       "province": "BC"
     },
     {
-      "name": "2017 Jeep Cherokee 4WD 4dr Sport",
+      "name": "2017 Jeep Cherokee Sport | Back-Up Camera | Cruise Control | Keyless Entry | Power Lock Doors",
       "vin": "1C4PJMAS5HW544182",
       "stock": "6TB5640",
       "color": "Silver",
@@ -291,7 +291,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/4f88fa35aca9.html",
       "source_url": "https://www.kelownachev.com/vehicles/2017/jeep/cherokee/kelowna/bc/71544151/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2017/jeep/cherokee/kelowna/bc/71544151/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:01:16",
+      "last_verified": "2026-10-22T07:07:00",
       "price": 14900.0,
       "price_currency": "CAD",
       "odometer_km": 134310,
@@ -1560,7 +1560,7 @@
       "province": "BC"
     },
     {
-      "name": "2024 Jeep Grand Cherokee L Limited AWD | 7 Passenger Seats | Power Driver and",
+      "name": "2024 Jeep Grand Cherokee L Limited AWD | 7 Passenger Seats | Power Driver and Front Passenger Seats | Remote Start",
       "vin": "1C4RJKBG5R8547886",
       "stock": "BB54788",
       "color": "Silver",
@@ -1568,7 +1568,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/8dc437891df4.html",
       "source_url": "https://www.kelownachev.com/vehicles/2024/jeep/grand-cherokee-l/kelowna/bc/70471396/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2024/jeep/grand-cherokee-l/kelowna/bc/70471396/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:07:04",
+      "last_verified": "2026-10-22T07:05:47",
       "price": 37555.0,
       "price_currency": "CAD",
       "odometer_km": 72255,
@@ -1620,7 +1620,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Chevrolet Equinox ACTIV AWD | Convenience Pkg II | Panoramic Sunroof",
+      "name": "2025 Chevrolet Equinox ACTIV AWD | Convenience Pkg II | Panoramic Sunroof | HD 360 Vision | Pwr Driver Seat | Remote Start",
       "vin": "3GNAXSEG8SL168869",
       "stock": "VD0172E",
       "color": "Green",
@@ -1628,7 +1628,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/1cd3a8ce1ea1.html",
       "source_url": "https://www.kelownachev.com/vehicles/2025/chevrolet/equinox/kelowna/bc/70954139/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2025/chevrolet/equinox/kelowna/bc/70954139/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:07:22",
+      "last_verified": "2026-10-22T07:05:58",
       "price": 39980.0,
       "price_currency": "CAD",
       "odometer_km": 19838,
@@ -1760,7 +1760,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Chevrolet Silverado 2500 LT 6.6L Convenience  | HD Rear Cam | Pwr Seat | Rm",
+      "name": "2025 Chevrolet Silverado 2500 LT 6.6L Convenience  | HD Rear Cam | Pwr Seat | Rmt Start",
       "vin": "1GC1KNEY6SF323236",
       "stock": "VD0124E",
       "color": "White",
@@ -1768,7 +1768,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/8829923195a8.html",
       "source_url": "https://www.kelownachev.com/vehicles/2025/chevrolet/silverado-2500/kelowna/bc/70377621/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2025/chevrolet/silverado-2500/kelowna/bc/70377621/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:07:37",
+      "last_verified": "2026-10-22T07:06:07",
       "price": 65974.0,
       "price_currency": "CAD",
       "odometer_km": 19135,
@@ -1960,7 +1960,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Ford F-350 Super Duty XL FX4 Pkg 6.7L Powerstroke Diesel | Rear Camera |",
+      "name": "2025 Ford F-350 Super Duty XL FX4 Pkg 6.7L Powerstroke Diesel | Rear Camera | Remote Keyless Entry | Front Split Bench Seat",
       "vin": "1FT8W3BT0SEC33876",
       "stock": "VD0169E",
       "color": "White",
@@ -1968,7 +1968,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/cb1069ca56e5.html",
       "source_url": "https://www.kelownachev.com/vehicles/2025/ford/f-350-super-duty/kelowna/bc/70939739/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2025/ford/f-350-super-duty/kelowna/bc/70939739/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:07:48",
+      "last_verified": "2026-10-22T07:06:18",
       "price": 67985.0,
       "price_currency": "CAD",
       "odometer_km": 36243,
@@ -1980,7 +1980,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Ford Mustang Convertible EcoBoost Premium Convertible | Power Operated Fabr",
+      "name": "2025 Ford Mustang Convertible EcoBoost Premium Convertible | Power Operated Fabric Top | Heated and Cooled Front Seats |",
       "vin": "1FAGP8UH3S5114529",
       "stock": "VD0119E",
       "color": "Black",
@@ -1988,7 +1988,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/d0d3e9bba5f9.html",
       "source_url": "https://www.kelownachev.com/vehicles/2025/ford/mustang-convertible/kelowna/bc/70223205/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2025/ford/mustang-convertible/kelowna/bc/70223205/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:07:58",
+      "last_verified": "2026-10-22T07:06:26",
       "price": 35078.0,
       "price_currency": "CAD",
       "odometer_km": 35347,
@@ -2020,7 +2020,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Hyundai Sonata Preferred-Trend AWD 2.5L | Blind Spot Monitor | Ca",
+      "name": "2025 Hyundai Sonata Preferred-Trend AWD 2.5L | Blind Spot Monitor | CarPlay & Android | Htd & Vntd Seats",
       "vin": "KMHL44JA8SA498313",
       "stock": "6TX0933",
       "color": "Grey",
@@ -2028,7 +2028,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/bb4f0d0a8f86.html",
       "source_url": "https://www.kelownachev.com/vehicles/2025/hyundai/sonata/kelowna/bc/71391432/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2025/hyundai/sonata/kelowna/bc/71391432/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:08:07",
+      "last_verified": "2026-10-22T07:06:34",
       "price": 32980.0,
       "price_currency": "CAD",
       "odometer_km": 18131,
@@ -2079,6 +2079,26 @@
       "province": "BC"
     },
     {
+      "name": "2025 Volkswagen Atlas Cross Sport Execline | 360 Degree Camera | Heated Ventilated Seats | Panoramic Sunroof | Power Driver Seat",
+      "vin": "1V2FE2CA9SC218062",
+      "stock": "6K11698",
+      "color": "Silver",
+      "trim": "Execline",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/437deb0390ab.html",
+      "source_url": "https://www.kelownachev.com/vehicles/2025/volkswagen/atlas-cross-sport/kelowna/bc/ad13329121/?sale_class=used",
+      "dealer_url": "https://www.kelownachev.com/vehicles/2025/volkswagen/atlas-cross-sport/kelowna/bc/ad13329121/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T07:05:37",
+      "price": 45980.0,
+      "price_currency": "CAD",
+      "odometer_km": 20934,
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
+    },
+    {
       "name": "2026 Chevrolet Corvette 1LT | Dual-Zn Climate | Rwr Seats | Remov Roof",
       "vin": "1G1YA2D47T5104414",
       "stock": "6CV7576",
@@ -2087,7 +2107,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/38da778c31d1.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/corvette/kelowna/bc/70894892/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/corvette/kelowna/bc/70894892/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:08:26",
+      "last_verified": "2026-10-22T07:06:44",
       "price": 79155.0,
       "price_currency": "CAD",
       "odometer_km": 19723,
@@ -2119,7 +2139,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Chevrolet Equinox LT AWD Convenience | Remote Start | HD Rear Camera",
+      "name": "2026 Chevrolet Equinox LT AWD Convenience | Remote Start | HD Rear Camera | Adaptive Cruise Control | Rear Park Assist",
       "vin": "3GNAXPEG5TL290152",
       "stock": "VD0130E",
       "color": "White",
@@ -2127,7 +2147,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/7cfd40db2092.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/70444970/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/70444970/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:01:33",
+      "last_verified": "2026-10-22T07:07:10",
       "price": 31841.0,
       "price_currency": "CAD",
       "odometer_km": 22492,
@@ -2139,7 +2159,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Chevrolet Equinox LT AWD | Convenience Pkg I | Remote Start | HD Rea",
+      "name": "2026 Chevrolet Equinox LT AWD | Convenience Pkg I | Remote Start | HD Rear Camera | Adaptive Cruise Control",
       "vin": "3GNAXPEG4TL321651",
       "stock": "VD0156E",
       "color": "Grey",
@@ -2147,7 +2167,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/557f09e6a851.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/70745579/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/70745579/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:01:41",
+      "last_verified": "2026-10-22T07:07:19",
       "price": 32757.0,
       "price_currency": "CAD",
       "odometer_km": 19763,
@@ -2159,7 +2179,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Chevrolet Equinox LT AWD | Convenience Pkg I | Remote Start | HD Rea",
+      "name": "2026 Chevrolet Equinox LT AWD | Convenience Pkg I | Remote Start | HD Rear Camera | Adaptive Cruise Control",
       "vin": "3GNAXPEG9TL313318",
       "stock": "VD0157E",
       "color": "Grey",
@@ -2167,7 +2187,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/ff98b14b7da0.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/70770904/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/70770904/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:01:51",
+      "last_verified": "2026-10-22T07:07:29",
       "price": 32333.0,
       "price_currency": "CAD",
       "odometer_km": 27951,
@@ -2179,7 +2199,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Chevrolet Equinox RS AWD 2RS | Htd Str Wheel & Seats | Rmt Start | C",
+      "name": "2026 Chevrolet Equinox RS AWD 2RS | Htd Str Wheel & Seats | Rmt Start | Convenience Pkg",
       "vin": "3GNAXTEG3TL290174",
       "stock": "6K17888",
       "color": "Grey",
@@ -2187,7 +2207,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/910b565c15dd.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/71378202/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/equinox/kelowna/bc/71378202/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:01:59",
+      "last_verified": "2026-10-22T07:07:38",
       "price": 39980.0,
       "price_currency": "CAD",
       "odometer_km": 23468,
@@ -2278,7 +2298,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Chevrolet Silverado 2500 LT 6.6L 4WD | Front Split Bench Seat | HD Rear Cam",
+      "name": "2026 Chevrolet Silverado 2500 LT 6.6L 4WD | Front Split Bench Seat | HD Rear Camera | Push Button Start | Hitch Guidance",
       "vin": "1GC1KNEY2TF151014",
       "stock": "VD0135E",
       "color": "White",
@@ -2286,7 +2306,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/d28e769025aa.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/silverado-2500/kelowna/bc/70380990/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/silverado-2500/kelowna/bc/70380990/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:02:09",
+      "last_verified": "2026-10-22T07:07:46",
       "price": 77441.0,
       "price_currency": "CAD",
       "odometer_km": 12440,
@@ -2298,7 +2318,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Chevrolet Silverado 2500 LT 6.6L | Keyless Entry | Back-Up Camera | 13.4 In",
+      "name": "2026 Chevrolet Silverado 2500 LT 6.6L | Keyless Entry | Back-Up Camera | 13.4 Inch Touchscreen | Cruise Control",
       "vin": "2GC1KNE79T1128893",
       "stock": "VD0178E",
       "color": "White",
@@ -2306,7 +2326,7 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/96b8c8749f92.html",
       "source_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/silverado-2500/kelowna/bc/71174700/?sale_class=used",
       "dealer_url": "https://www.kelownachev.com/vehicles/2026/chevrolet/silverado-2500/kelowna/bc/71174700/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T10:02:17",
+      "last_verified": "2026-10-22T07:07:56",
       "price": 69609.0,
       "price_currency": "CAD",
       "odometer_km": 16329,
