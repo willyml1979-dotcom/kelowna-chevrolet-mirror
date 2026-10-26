@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chevrolet",
-  "generated_at": "2026-10-25T23:19:24",
-  "vehicle_count": 575,
+  "generated_at": "2026-10-26T04:54:24",
+  "vehicle_count": 574,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2202,7 +2202,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 63514.0,
+      "price": 58139.0,
       "price_currency": "CAD"
     },
     {
@@ -2213,7 +2213,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 60514.0,
+      "price": 63514.0,
       "price_currency": "CAD"
     },
     {
@@ -2235,11 +2235,11 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 71159.0,
+      "price": 76748.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | EZ Lift Pwr | HD Rr",
+      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | EZ Lift Pwr | HD Rr Cam",
       "vin": "3GCUKCED4TG452204",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/d6364dcdef59.html",
       "year": 2026,
@@ -2250,7 +2250,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom | 20in Wheels | 4in Step Assist | EZ Pwr Li",
+      "name": "2026 Chevrolet Silverado 1500 Custom | 20in Wheels | 4in Step Assist | EZ Pwr Lift",
       "vin": "3GCPKBEK9TG458473",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/dd28121351b8.html",
       "year": 2026,
@@ -2261,7 +2261,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | EZ Lift Pwr | HD Rr",
+      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | EZ Lift Pwr | HD Rr Cam",
       "vin": "3GCUKCED5TG458867",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/aa414efcacc6.html",
       "year": 2026,
@@ -2272,7 +2272,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom | 20in Wheels | 4in Step Assist | EZ Pwr Li",
+      "name": "2026 Chevrolet Silverado 1500 Custom | 20in Wheels | 4in Step Assist | EZ Pwr Lift",
       "vin": "3GCPKBEK6TG458463",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/a610a8b46f2d.html",
       "year": 2026,
@@ -2305,14 +2305,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | Pwr Seat | HD Rr Ca",
+      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | Pwr Seat | HD Rr Cam",
       "vin": "3GCPKCEK8TG388793",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/ba87a0c1596c.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 61068.0,
+      "price": 58695.0,
       "price_currency": "CAD"
     },
     {
@@ -2349,7 +2349,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | Trailer Pkg | Lane",
+      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | 2in Lift | Trailer Pkg | Lane Keep Ast",
       "vin": "3GCUKCED8TG458863",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/3ab9f4bb2a71.html",
       "year": 2026,
@@ -2577,17 +2577,6 @@
       "model": "Silverado 1500",
       "condition": "new",
       "price": 72098.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 LT",
-      "vin": "2GCUKDED9T1221734",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/c0b3eecd4c9f.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 63854.0,
       "price_currency": "CAD"
     },
     {
