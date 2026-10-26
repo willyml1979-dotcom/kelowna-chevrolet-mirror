@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chevrolet",
-  "generated_at": "2026-10-25T19:44:11",
-  "vehicle_count": 566,
+  "generated_at": "2026-10-25T23:19:24",
+  "vehicle_count": 575,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -39,6 +39,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2010 Ford Explorer Sport Trac Adrenalin | Back-Up Camera | Keyless Entry | V8 Engine | Leather Interior",
+      "vin": "1FMEU2D81AUA25467",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/e1d105ff5319.html",
+      "year": 2010,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "used",
+      "price": 24980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Buick Regal CXL Turbo | Sunroof | Power Driver Seat | Leather Seats | Remote Keyless Entry",
+      "vin": "2G4GX5GV4B9215099",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/256a99d79d0a.html",
+      "year": 2011,
+      "make": "Buick",
+      "model": "Regal",
+      "condition": "used",
+      "price": 9980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 Ford Mustang Shelby Shelby GT500 |Recaro Leather Seats | SVT Performance Pkg | Performance Suspension",
       "vin": "1ZVBP8JS2C5227438",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/570495b99e40.html",
@@ -58,6 +80,17 @@
       "model": "GLK-Class GLK 250 BlueTec",
       "condition": "used",
       "price": 19900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Hyundai Santa Fe Sport Limited | Power Driver Seat | Sun/ Moonroof | Back-Up Camera | Leather Interior",
+      "vin": "5XYZUDLA5FG272313",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/9ae9e09cdf6f.html",
+      "year": 2015,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 13980.0,
       "price_currency": "CAD"
     },
     {
@@ -135,6 +168,17 @@
       "model": "Silverado 1500",
       "condition": "used",
       "price": 29980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Dodge Journey Crossroad | Power Driver Seat | Leather Interior | Sunroof | Keyless Entry | Remote Engine Start",
+      "vin": "3C4PDDGG4HT585418",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/c6098ac2d3ea.html",
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Journey",
+      "condition": "used",
+      "price": 12980.0,
       "price_currency": "CAD"
     },
     {
@@ -237,6 +281,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Chevrolet Silverado 3500 Work Truck | Cruise Control | Power Driver Seat | Keyless Entry | Back-Up Camera | Power Door Locks",
+      "vin": "1GC4KVCY5KF241126",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/bf7fe6c9c221.html",
+      "year": 2019,
+      "make": "Chevrolet",
+      "model": "Silverado 3500",
+      "condition": "used",
+      "price": 43980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Land Rover Range Rover Sport HSE 4WD | Power Driver Seat | Panoramic Moonroof | Power Liftgate | Push Button Start",
       "vin": "SALWR2RK2KA854302",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/70d66d13ceca.html",
@@ -292,6 +347,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Toyota Tacoma SR5 | Keyless Entry | Back-Up Camera | Cruise Control | Power Door Locks | Power Windows",
+      "vin": "5TFDZ5BN0KX046175",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/5916a8646d54.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 39980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020 Chevrolet Bolt EV LT | Cruise Control | Apple Car Play/ Android Auto | Back-Up Camera | Keyless Entry",
       "vin": "1G1FY6S05L4146905",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/b1c80637bea6.html",
@@ -300,6 +366,17 @@
       "model": "Bolt EV",
       "condition": "used",
       "price": 19980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Chevrolet Silverado 1500 RST | Back-Up Camera | Leather Interior | Keyless Start | Cruise Control | Automatic Start/ Stop",
+      "vin": "1GCUYEED2LZ351219",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/2ac7adfdf174.html",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 39900.0,
       "price_currency": "CAD"
     },
     {
@@ -468,6 +545,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Chevrolet Bolt EUV Premier 2LZ | Adaptive Cruise Control | Back-Up Aerial View Display System | Keyless Start",
+      "vin": "1G1FZ6S02N4119600",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/2c347802fdb7.html",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Bolt EUV",
+      "condition": "used",
+      "price": 27980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Chevrolet Malibu Sedan RS | Cruise Control | Power Lock Doors | Back-Up Camera | Keyless Entry | Remote Engine Start",
       "vin": "1G1ZG5ST4NF195301",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/bf09efe171d1.html",
@@ -523,17 +611,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Chevrolet Silverado 3500 LT | Z71 Off-Road | Long Box 6.6L | Htd Str Wheel & Seats",
-      "vin": "1GC4YTE78NF168474",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/880c36872314.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Silverado 3500",
-      "condition": "used",
-      "price": 56980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Honda Pilot EX-L Navi | Power Driver Seat | Lane Keep Assist | Sunroof | Adaptive Cruise Control",
       "vin": "5FNYF6H77NB500641",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/d8c6cb5c58b5.html",
@@ -567,6 +644,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 RAM 1500 Rebel | Keyless Start | Leather Interior | Power Driver Seat | Back-Up Camera",
+      "vin": "1C6SRFLT7NN166881",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/0917517ccd97.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 45980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 RAM 2500 Crew Cab Power Wagon Off-Rd | Sunroof | Heated & Cooled Seats | Tow Hitch",
       "vin": "3C6TR5EJ3NG294795",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/cd3fae518534.html",
@@ -586,17 +674,6 @@
       "model": "3500",
       "condition": "used",
       "price": 64670.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Bolt EUV LT | Keyless Entry | Power Driver Seat | Keyless Start | Back-Up Camera | Cruise Control",
-      "vin": "1G1FY6S08P4185333",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/7fe52ac7af0e.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Bolt EUV",
-      "condition": "used",
-      "price": 26145.0,
       "price_currency": "CAD"
     },
     {
@@ -677,6 +754,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Chevrolet Tahoe LT | Back-Up Camera | Cruise Control | Leather Heated Seats | Parking Sensors",
+      "vin": "1GNSKNKDXPR416022",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/5a166b9251c0.html",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "condition": "used",
+      "price": 57980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Chrysler Pacifica Touring L | 7 Seats | Power Driver Seat | Power Liftgate | Back-Up Camera | Remote Start",
       "vin": "2C4RC1BG9PR567600",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/9b4432e0189d.html",
@@ -688,6 +776,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Chrysler Pacifica Touring L | Keyless Start | Adaptive Cruise Control | Heated Steering Wheel | Back-Up Camera",
+      "vin": "2C4RC3BG8PR592905",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/fa1b7cd56844.html",
+      "year": 2023,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used",
+      "price": 33980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Ford F-150 XLT SUPERCREW 3.5L | REMOTE START | DYNAMIC HITCH ASSIST",
       "vin": "1FTFW1E88PFD01135",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/8668a2c6a701.html",
@@ -696,17 +795,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 46980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 GMC Yukon SLT 5.3L | Tow Hitch | Htd Front Seats | Leather Seats | Blind Spot Monitor",
-      "vin": "1GKS2BKD0PR197177",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/fa8f5145d271.html",
-      "year": 2023,
-      "make": "GMC",
-      "model": "Yukon",
-      "condition": "used",
-      "price": 69980.0,
       "price_currency": "CAD"
     },
     {
@@ -817,6 +905,17 @@
       "model": "Bronco",
       "condition": "used",
       "price": 67980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 GMC Sierra 1500 Elevation Premium 5.3L | Sun/ Moonroof | Cruise Control | Remote Engine Start",
+      "vin": "3GTUUCED3RG359015",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/00f9964f0da2.html",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 58980.0,
       "price_currency": "CAD"
     },
     {
