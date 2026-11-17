@@ -1,6 +1,6 @@
 # Kelowna Chevrolet
 
- dealership in Kelowna. AI-readable inventory mirror, about 542 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 561 vehicles.
 
 - Official website: https://www.kelownachev.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/
