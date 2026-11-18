@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chevrolet",
-  "generated_at": "2026-11-17T21:01:35",
-  "vehicle_count": 568,
+  "generated_at": "2026-11-18T00:38:23",
+  "vehicle_count": 567,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -190,17 +190,6 @@
       "model": "1500",
       "condition": "used",
       "price": 25980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Subaru Crosstrek 2.0i Limited | Sunroof | Heated Front Seats | Leather Interior | Cruise Control",
-      "vin": "JF2GPANC2HH246386",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/733ea5d041cf.html",
-      "year": 2017,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 19980.0,
       "price_currency": "CAD"
     },
     {
@@ -420,7 +409,7 @@
       "make": "Toyota",
       "model": "GR Supra 3.0L",
       "condition": "used",
-      "price": 61980.0,
+      "price": 58184.0,
       "price_currency": "CAD"
     },
     {
@@ -673,7 +662,7 @@
       "make": "Chevrolet",
       "model": "Silverado 2500",
       "condition": "used",
-      "price": 60980.0,
+      "price": 59887.0,
       "price_currency": "CAD"
     },
     {
@@ -794,7 +783,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 64670.0,
+      "price": 62257.0,
       "price_currency": "CAD"
     },
     {
@@ -882,7 +871,7 @@
       "make": "Chevrolet",
       "model": "Tahoe",
       "condition": "used",
-      "price": 76900.0,
+      "price": 72741.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +893,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 29805.0,
+      "price": 28725.0,
       "price_currency": "CAD"
     },
     {
@@ -1058,7 +1047,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 67980.0,
+      "price": 63081.0,
       "price_currency": "CAD"
     },
     {
@@ -1091,7 +1080,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 29980.0,
+      "price": 28312.0,
       "price_currency": "CAD"
     },
     {
@@ -1322,7 +1311,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 67985.0,
+      "price": 64710.0,
       "price_currency": "CAD"
     },
     {
@@ -1399,7 +1388,7 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "used",
-      "price": 79155.0,
+      "price": 77192.0,
       "price_currency": "CAD"
     },
     {
@@ -1458,6 +1447,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Chevrolet Silverado 1500 LT | Power Driver Seat | Remote Engine Start | Cruise Control | Back-Up Camera",
+      "vin": "3GCPKDEK6TG305948",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/a5edcfe037ee.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 48980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Silverado 2500 LT 6.6L 4WD | Front Split Bench Seat | HD Rear Camera | Push Button Start | Hitch Guidance",
       "vin": "1GC1KNEY2TF151014",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/d28e769025aa.html",
@@ -1510,17 +1510,6 @@
       "model": "Traverse",
       "condition": "used",
       "price": 49320.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Traverse LT | Remote Engine Start | Back-Up Camera | Keyless Entry | Lane Keep Assist",
-      "vin": "1GNEVGKS2TJ210281",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/used/216f5b4f6813.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 47885.0,
       "price_currency": "CAD"
     },
     {
