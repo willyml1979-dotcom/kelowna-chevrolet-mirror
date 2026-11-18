@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chevrolet",
-  "generated_at": "2026-11-17T09:22:43",
-  "vehicle_count": 561,
+  "generated_at": "2026-11-17T21:01:35",
+  "vehicle_count": 568,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2107,6 +2107,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Chevrolet Colorado 4WD ZR2 | Off-Rd | Htd Str Wheel | Vntd Seats | Sunroof | Rmt Start",
+      "vin": "1GCPTFEK7T1336360",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/fdab52b1a964.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 66438.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Colorado 4WD Trail Boss | Off-Rd W/2in Lift | Htd Str Wheel & Seats | Rmt Start",
+      "vin": "1GCPTEEK3T1343672",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/a4e6a84aaa5a.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "new",
+      "price": 57578.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Corvette 3LT | Convertible Roof | Performance Pkg | Premium Audio | Park Assist | 360 HD Camera",
       "vin": "1G1YC3D41T5110032",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/da9726b2e429.html",
@@ -2499,161 +2521,161 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 75845.0,
+      "price": 76854.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom| 2.7L | Trailer Pkg | 20in Wheels | Dark Pk",
+      "name": "2026 Chevrolet Silverado 1500 Custom| 2.7L | Trailer Pkg | 20in Wheels | Dark Pkg | HD Rear Cam",
       "vin": "3GCPKBEK8TG467987",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/8bb5fd1a1ddd.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 59383.0,
+      "price": 57383.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | Z71 Off-Rd | Trailer Pkg | 13.4 Screen | HD",
+      "name": "2026 Chevrolet Silverado 1500 RST | Z71 Off-Rd | Trailer Pkg | 13.4 Screen | HD Rear Vision Cam",
       "vin": "2GCUKEED3T1224926",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/4834ef9ede8f.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 69068.0,
+      "price": 67068.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | Z71 Off-Rd | Htd Str Wheel | Htd Seats | Rmt",
+      "name": "2026 Chevrolet Silverado 1500 RST | Z71 Off-Rd | Htd Str Wheel | Htd Seats | Rmt Start",
       "vin": "2GCUKEED1T1225038",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/f5abe8420df3.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 69068.0,
+      "price": 67068.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom | Trailer Pkg | Conve Pkg | Rmt Start | 20i",
+      "name": "2026 Chevrolet Silverado 1500 Custom | Trailer Pkg | Conve Pkg | Rmt Start | 20in Wheels",
       "vin": "3GCPKBEK8TG457444",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/1a6e3a1a74fb.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 58888.0,
+      "price": 56888.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 Custom | Trailer Pkg | Rmt Start | 20in Wheels | P",
+      "name": "2026 Chevrolet Silverado 1500 Custom | Trailer Pkg | Rmt Start | 20in Wheels | Pwr Door Locks",
       "vin": "3GCPKBEK1TG459097",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/192db679bc34.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 58823.0,
+      "price": 56823.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg |",
+      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg | Htd Seats",
       "vin": "2GCUKEED3T1227504",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/abffccd855ec.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67308.0,
+      "price": 65308.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 LT Trail Boss | Off-Rd | 2 Lift | Protect Pkg | Ht",
+      "name": "2026 Chevrolet Silverado 1500 LT Trail Boss | Off-Rd | 2 Lift | Protect Pkg | Htd Str Wheel& Seats",
       "vin": "3GCUKFED6TG483567",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/19525ec209ab.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 72538.0,
+      "price": 70538.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg |",
+      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg | Htd Seats",
       "vin": "2GCUKEED8T1227563",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/6c7650082d37.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67308.0,
+      "price": 65308.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg |",
+      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg | Htd Str Wheel & Seats",
       "vin": "2GCUKEED6T1228081",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/4b5dea000c4c.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67308.0,
+      "price": 65308.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg |",
+      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg | Htd Str Wheel & Seats",
       "vin": "2GCUKEED3T1228023",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/523782b65fce.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67308.0,
+      "price": 65308.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg |",
+      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg | Htd Str Wheel & Seats",
       "vin": "2GCUKEED6T1228100",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/e99fbb8f5b3b.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67308.0,
+      "price": 65308.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 LT Trail Boss | Off-Rd | 2 Lift | Protect Pkg | Ht",
+      "name": "2026 Chevrolet Silverado 1500 LT Trail Boss | Off-Rd | 2 Lift | Protect Pkg | Htd Str Wheel & Seats",
       "vin": "3GCUKFED9TG483577",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/ef04b0fc75bc.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 72538.0,
+      "price": 70538.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg |",
+      "name": "2026 Chevrolet Silverado 1500 RST | True North Ed. | Z71 Off-Rd | Trailer Pkg | Htd Str Wheel & Seats",
       "vin": "2GCUKEED3T1228118",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/ed4ed502e974.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67308.0,
+      "price": 65308.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 RST | Z71 Off Rd Pkg | Rmt Start | True North Ed.",
+      "name": "2026 Chevrolet Silverado 1500 RST | Z71 Off Rd Pkg | Rmt Start | True North Ed. | Htd Str Wheel & Seats",
       "vin": "2GCUKEED4T1228290",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/2fd56d5022cc.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "new",
-      "price": 67803.0,
+      "price": 65803.0,
       "price_currency": "CAD"
     },
     {
@@ -3348,17 +3370,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 LT Trail Boss | Off-Rd W/2in Lift | Htd Str Wheel & Seats | 20in Wheels",
-      "vin": "3GCUKFED6TG458376",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/e998c7bedc6a.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 71813.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | Off-Rd W/2in Lift | Rmt Start | Convenience Pkg",
       "vin": "3GCUKCED5TG509106",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/35b3462149d5.html",
@@ -3480,6 +3491,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Chevrolet Silverado 1500 RST True North | Convenience Pkg | Htd Str Wheel & Seats",
+      "vin": "1GCPKEEK0TZ379727",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/27950e52a04c.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 62909.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss | Off-Rd Suspension W/2in Lift | Rmt Start",
+      "vin": "3GCUKCE86TG493310",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/027b27f8c177.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 61894.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chevrolet Silverado 2500 Custom | Z71 Off-Rd Pkg | Rmt Start | HD Rear Visi",
       "vin": "2GC4KME75T1241313",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/b2cdcdd1a3ad.html",
@@ -3499,6 +3532,17 @@
       "model": "Silverado 2500",
       "condition": "new",
       "price": 76553.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 2500 LT | Htd STr Wheel & Seats | 22in Wheels | Rmt Start",
+      "vin": "2GC1KNE7XT1239727",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/804a75c949e2.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "condition": "new",
+      "price": 80179.0,
       "price_currency": "CAD"
     },
     {
@@ -3697,17 +3741,6 @@
       "model": "Silverado 3500",
       "condition": "new",
       "price": 118493.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 3500 4WD Crew Cab 172  High Country",
-      "vin": "1GC4KVEY8TF417388",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/041eef301815.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 3500",
-      "condition": "new",
-      "price": 116928.0,
       "price_currency": "CAD"
     },
     {
@@ -4426,17 +4459,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Trax 1RS | Cruise Cntrl | Heated Seats | Rmt Start",
-      "vin": "KL77LGE28TC185827",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/34a7ccdeb8a1.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "new",
-      "price": 30056.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Chevrolet Trax 2RS | Pwr Seat | Sunroof | Rmt Start | HD Rr Cam",
       "vin": "KL77LJE22TC190406",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/a1c30a393c09.html",
@@ -4764,6 +4786,17 @@
       "model": "Trax",
       "condition": "new",
       "price": 33168.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Trax ACTIV | Sunroof | Htd Str Wheel & Seats | Rmt Start | Roof Rails",
+      "vin": "KL77LKE23TC276961",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/c468191e551a.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "new",
+      "price": 33733.0,
       "price_currency": "CAD"
     },
     {
@@ -5783,6 +5816,50 @@
       "model": "Silverado 1500",
       "condition": "new",
       "price": 107843.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 ZR2 | Off-Rd | Htd Str Wheel & Seats | Sunroof | Vntd Seats",
+      "vin": "3GCUKHEN9VG111325",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/cf621d0e5011.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 106168.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 ZR2 | Off-Rd | Htd Str Wheel & Seats |Sunroof | Vntd Seats",
+      "vin": "3GCUKHEN5VG110835",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/e5bbf32c0ed6.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 106168.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 ZR2 | Off-Rd | Htd Str Wheel & Seats | Rmt Start | Vntd Seats",
+      "vin": "3GCUKHEN4VG111328",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/2302b071538a.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 106168.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Chevrolet Silverado 1500 ZR2 | Off-Rd | Htd Str Wheel & Seats | Rmt start | Vntd Seats",
+      "vin": "3GCUKHEN0VG111326",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chevrolet-mirror/new/c37d86979b20.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "new",
+      "price": 106168.0,
       "price_currency": "CAD"
     },
     {
